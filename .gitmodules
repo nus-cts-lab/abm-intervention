@@ -1,0 +1,6 @@
+[submodule "abm-intervention-frontend"]
+	path = abm-intervention-frontend
+	url = https://github.com/nus-cts-lab/abm-intervention-frontend.git
+[submodule "abm-intervention-backend"]
+	path = abm-intervention-backend
+	url = https://github.com/nus-cts-lab/abm-intervention-backend.git
